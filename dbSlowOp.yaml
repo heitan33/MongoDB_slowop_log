@@ -1,0 +1,6 @@
+urlDBSlow: https://galileo-hd.yunext.com/monitoring/slowSql
+configId: 5e4a5dd4d5f87218fb9a63b6,5eb272a7d5f8727ebc13b304
+mongoLogPath: /data/mongodb-linux-x86_64-4.0.1/logs/log
+backupOperateIp: 192.168.1.179,192.168.1.43
+dbNameList: galileo,lunar
+slowOpStd: 300
