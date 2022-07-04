@@ -219,7 +219,7 @@ func Post(url string, data string) (string ,int) {
 	    // handle error
 	}
 	req.Header.Set("Content-Type", "application/json")
-	req.Header.Set("token", "monitoring_6496d6c7422146fab147ca11d61c19bd")
+	req.Header.Set("token", "xxx")
 	
 	resp, err := client.Do(req)
 	defer func() {
